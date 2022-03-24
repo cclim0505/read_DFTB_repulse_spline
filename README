@@ -9,3 +9,16 @@ length: atomic units
 energy: hartree
 
 Output will give both hartree and eV units
+
+# How to use
+
+1. Prepare spline parameter file. 
+Copy the first line that contains the word "Spline" up until the last parameter.
+
+
+2. Use bash script "calc_repulsion.sh", and run
+`calc_repulsion.sh spline_file.txt`
+
+3. Check results in two output files, containing eV and hartree energy units.
+
+

@@ -1,4 +1,6 @@
 #!/bin/sh
+# Script to run programme.
+# awk command converts hartree energy units to ev energy units.
 
 echo "Reading $1 to calculate DFTB spline repulsion."
 
