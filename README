@@ -1,0 +1,11 @@
+# README
+
+# 24 March 2022
+
+Code to read DFTB sk file spline parameters to plot repulsive energy.
+
+Units are in atomic units.
+length: atomic units
+energy: hartree
+
+Output will give both hartree and eV units
